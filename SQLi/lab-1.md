@@ -3,3 +3,5 @@
 Craft the SQL query in this format 
 
     SELECT * FROM products WHERE category = '' OR 1=1 --' AND released = 1
+
+
