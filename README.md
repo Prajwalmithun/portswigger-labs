@@ -10,20 +10,23 @@ grouped by difficulty level and topic.
 ### SQL injection
 
 [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)
+
 [Solutions](SQLi/lab-1.md)
 
 [SQL injection vulnerability allowing login bypass](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
 
-
+[Solutions](SQLi/lab-2.md)
 
 
 ### Cross-site scripting
 
 [Reflected XSS into HTML context with nothing encoded](https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded)
 
+[Solutions](XSS/lab-1.md)
 
 [Reflected XSS into attribute with angle brackets HTML-encoded](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-attribute-angle-brackets-html-encoded)
 
+[Solutions](XSS/lab-2.md)
 
 [Stored XSS into anchor href attribute with double quotes HTML-encoded](https://portswigger.net/web-security/cross-site-scripting/contexts/lab-href-attribute-double-quotes-html-encoded)
 
