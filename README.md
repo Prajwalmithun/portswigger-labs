@@ -1,4 +1,4 @@
-# PortSwigger Web Security Academy Labs
+# PortSwigger Web Security Academy Lab
 
 [PortSwigger Web Security Academy labs](https://portswigger.net/web-security)
 grouped by difficulty level and topic.
